@@ -1,0 +1,7 @@
+gymnasium
+matplotlib
+numpy
+pygame
+pympler
+scipy
+statsmodels
