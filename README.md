@@ -2,7 +2,7 @@
 
 <i>In Proceedings of the 37th Conference on Neural Information Processing Systems. 2023.</i> <a href="#alves2023information">[1]</a>
 
-If you use our solutions as one of your baselines, please cite us!
+Please cite us! 😄🤓
 
 ```
 @inproceedings{alves2023information,
